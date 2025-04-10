@@ -29,8 +29,6 @@
 First, install the tool using the following command:
 
       git clone https://github.com/0xshll/Hash-killer.git
-        
-![2 2](https://user-images.githubusercontent.com/113283571/216544873-58dbbb01-fd27-479b-bcb2-bd25258145bf.png)
 
  you can run the code:
 
